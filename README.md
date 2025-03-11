@@ -53,6 +53,9 @@ npm -v    # 预期输出: 10.x.x
 # 克隆项目代码
 git clone https://github.com/mumumusf/openloopbot.git
 cd openloopbot
+
+# 安装所需的依赖
+npm install
 ```
 
 ## 🚀 程序使用说明
