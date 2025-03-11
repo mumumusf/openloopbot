@@ -1,0 +1,19 @@
+{
+  "name": "openloop-bandwidth",
+  "version": "1.0.0",
+  "description": "OpenLoop 去中心化带宽共享工具",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "setup": "node setup.js",
+    "token": "node getToken.js"
+  },
+  "author": "小林",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^2.7.0"
+  }
+}
